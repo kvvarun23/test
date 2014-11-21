@@ -1,0 +1,25 @@
+  118  git remote -v
+  119  ls
+  120  cd test
+  121  ls
+  122  ls -l
+  123  git remote -v
+  124  ls
+  125  git init
+  126  ls
+  127  git remote -v
+  128  git init
+  129  ls
+  130  ls -a
+  131  ls -l
+  132  vi readme
+  133  vim -c 'startinsert' readme 
+  134  git commit -m "readme"
+  135  git status
+  136  git add .
+  137  git status
+  138  ls -l
+  139  ls
+  140  git commit -m "readme"
+  141  ssh
+  142  ssh radhicasampath@mobiquityinc.com
